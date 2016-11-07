@@ -11,15 +11,18 @@
     "react": "15.3.2",
     "react-native": "0.36.1",
     "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "redux-rx": "^0.5.0",
     "redux-thunk": "^2.1.0",
-    "rxjs": "^5.0.0-rc.2"
+    "rx": "^4.1.0",
+    "rxjs": "^5.0.0-rc.1"
   },
   "jest": {
     "preset": "jest-react-native"
   },
   "devDependencies": {
     "babel-jest": "16.0.0",
-    "babel-preset-react-native": "1.9.0",
+    "babel-preset-react-native": "^1.9.0",
     "jest": "16.0.2",
     "jest-react-native": "16.1.0",
     "react-test-renderer": "15.3.2"

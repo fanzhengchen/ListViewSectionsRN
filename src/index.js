@@ -6,12 +6,12 @@ import {
     AppRegistry,
     Text,
 } from 'react-native';
-import MainContainer from './containers/MainContainer';
-import {RxStateProvider} from './state/RxState';
+import Rx from 'rxjs/Rx';
+
 export default class ListViewWithSection extends Component {
     render() {
         return (
-            <Text>Fuck</Text>
+            <Text>Fuck asdfasdf</Text>
         );
     }
 }
